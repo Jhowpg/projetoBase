@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3bY5PGCnYDsmI3fhTpCDrVoIAK4Dbj10f+qdrIYxfElay2LnAUEDzx0QzNZCNIEsNBlF6dfxliDqUyWnbLRNqA==",
+  "dgSpecHash": "s4Rp3JVgoq3k9yDYO+JLLFoZSHqaNyXf6zU3/CDHipdNHu2xVi1a79F35MQnkkT0AHVmmOKqrMbPhhPy9QtCBg==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
+  "projectFilePath": "C:\\Repository\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
