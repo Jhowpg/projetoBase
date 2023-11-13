@@ -13,11 +13,10 @@ namespace HelperStockBeta.Infra.Data.Repositories
     public class ProductRepository : IProductRepository
     {
         ApplicationDbContext _productContext;
-        public ProductRepository(ApplicationDbContext context)
+        public ProductRepository(ApplicationDbContext Context) 
         {
-            _productContext = context;
+            _productContext = Context;
         }
-
         public async Task<Product> CreateAsync(Product product)
         {
             _productContext.Add(product);
@@ -32,13 +31,12 @@ namespace HelperStockBeta.Infra.Data.Repositories
 
         public async Task<Product> GetProductCategoryAsync(int? id)
         {
-            return await _productContext.Products.Include(c => c.Category)
-                .SingleOrDefaultAsync(p => p.Id == id);
+            return await _productContext.Products.FindAsync(id);
         }
 
         public async Task<IEnumerable<Product>> GetProductsAsync()
         {
-            return await _productContext.Products.ToListAsync();
+          
         }
 
         public async Task<Product> RemoveAsync(Product product)

@@ -1,22 +1,23 @@
-﻿using HelperStockBeta.Domain.Entities;
-using HelperStockBeta.Domain.Interface;
-using HelperStockBeta.Infra.Data.Context;
-using Microsoft.EntityFrameworkCore;
+﻿using HelperStockBeta.Infra.Data.Context;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using HelperStockBeta.Domain.Entities;
+using HelperStockBeta.Domain.Interface;
 
 namespace HelperStockBeta.Infra.Data.Repositories
 {
     public class CategoryRepository : ICategoryRepository
     {
+        //Contexto de infra em conexão
         ApplicationDbContext _categoryContext;
-        public CategoryRepository(ApplicationDbContext context)
+        //Modelagem do contexto de conexão para Categoria
+        public CategoryRepository(ApplicationDbContext Context) 
         {
-            _categoryContext = context;
-
+            _categoryContext = Context;
         }
 
         public async Task<Category> CreateAsync(Category category)
@@ -28,12 +29,13 @@ namespace HelperStockBeta.Infra.Data.Repositories
 
         public async Task<Category> GetByIdAsync(int? id)
         {
+            
             return await _categoryContext.Categories.FindAsync(id);
         }
 
         public async Task<IEnumerable<Category>> GetCategoriesAsync()
         {
-            return await _categoryContext.Categories.ToListAsync(); ;
+            return await _categoryContext.Categories.ToListAsync();
         }
 
         public async Task<Category> RemoveAsync(Category category)
