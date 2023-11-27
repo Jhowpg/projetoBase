@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "QOuheqNHTsVdslaNCB0lVGhrAkX0pWeSsJvgg4A7/8w8mKzHxdR6GWdlbTj0t6huaSG5w/4naG8+flQxStgung==",
+  "dgSpecHash": "s0ft+/+pP+ghPQ6G43Lb2821RYc9DWvT2AcGT/N5O2oFqySs0NCejhmOVrfTPj7uGTidIVzDo7JlQVSQ0mI7mA==",
   "success": true,
   "projectFilePath": "C:\\Repository\\Nova pasta\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\2971392221026\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\2971392221026\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\2971392221026\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\2971392221026\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\2971392221026\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\2971392221026\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\2971392221026\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

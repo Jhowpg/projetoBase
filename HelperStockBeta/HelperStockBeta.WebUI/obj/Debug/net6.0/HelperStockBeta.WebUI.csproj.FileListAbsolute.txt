@@ -360,3 +360,15 @@ C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.WebUI\bin\Debug\net6
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.WebUI\bin\Debug\net6.0\HelperStockBeta.Infra.Data.pdb
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.WebUI\obj\Debug\net6.0\HelperStockBeta.WebUI.MvcApplicationPartsAssemblyInfo.cs
 C:\repositorios\projetoBase\HelperStockBeta\HelperStockBeta.WebUI\obj\Debug\net6.0\HelperStockBeta.WebUI.csproj.CopyComplete
+C:\Repository\Nova pasta\HelperStockBeta\HelperStockBeta.WebUI\obj\Debug\net6.0\HelperStockBeta.WebUI.csproj.AssemblyReference.cache
+C:\Repository\Nova pasta\HelperStockBeta\HelperStockBeta.WebUI\obj\Debug\net6.0\HelperStockBeta.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Nova pasta\HelperStockBeta\HelperStockBeta.WebUI\obj\Debug\net6.0\HelperStockBeta.WebUI.AssemblyInfoInputs.cache
+C:\Repository\Nova pasta\HelperStockBeta\HelperStockBeta.WebUI\obj\Debug\net6.0\HelperStockBeta.WebUI.AssemblyInfo.cs
+C:\Repository\Nova pasta\HelperStockBeta\HelperStockBeta.WebUI\obj\Debug\net6.0\HelperStockBeta.WebUI.csproj.CoreCompileInputs.cache
+C:\Repository\Nova pasta\HelperStockBeta\HelperStockBeta.WebUI\obj\Debug\net6.0\HelperStockBeta.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Repository\Nova pasta\HelperStockBeta\HelperStockBeta.WebUI\obj\Debug\net6.0\HelperStockBeta.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Repository\Nova pasta\HelperStockBeta\HelperStockBeta.WebUI\obj\Debug\net6.0\HelperStockBeta.WebUI.RazorAssemblyInfo.cache
+C:\Repository\Nova pasta\HelperStockBeta\HelperStockBeta.WebUI\obj\Debug\net6.0\HelperStockBeta.WebUI.RazorAssemblyInfo.cs
+C:\Repository\Nova pasta\HelperStockBeta\HelperStockBeta.WebUI\obj\Debug\net6.0\HelperStockBeta.WebUI.dll
+C:\Repository\Nova pasta\HelperStockBeta\HelperStockBeta.WebUI\obj\Debug\net6.0\refint\HelperStockBeta.WebUI.dll
+C:\Repository\Nova pasta\HelperStockBeta\HelperStockBeta.WebUI\obj\Debug\net6.0\HelperStockBeta.WebUI.pdb
